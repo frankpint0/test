@@ -1,6 +1,7 @@
 This is a test. Testing some more. more tests.
 
 more testing to be done.. And more.
-more lines
-feature A
-feature B
+more lines.
+feature C
+feature C
+feature C
